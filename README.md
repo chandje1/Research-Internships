@@ -1,2 +1,2 @@
-# Research-Internships
+# Software-Internships
 Internships
